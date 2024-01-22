@@ -1,6 +1,6 @@
 # 🏠 Hello👋, my name is Andrii
 
-### I have been working with Java since 2021, and I love cats 😸
+### I have been working with Java since 2022, and I love cats 😸
 
 ## 📲 My Links
 
@@ -30,8 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Skills" align="left" width="60" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Skills" align="left" width="60" height="80"/> 
-
-<br><br><br>
 
 ## 📰 Social links
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrii
 
-I'm a dedicated Java developer fuelled by my love for programming and cats! 🐱💻
+I'm a dedicated Java developer fuelled by my love for programming and sports! 🏋️‍♂️💻
 
 ## 🌟 About Me
 
